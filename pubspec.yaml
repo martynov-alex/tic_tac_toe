@@ -1,14 +1,11 @@
 name: tic_tac_toe
 description: Educational project from the book "Dart Basics".
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
 
 environment:
   sdk: ^3.4.3
 
-# Add regular dependencies here.
 # dependencies:
-  # path: ^1.8.0
 
 dev_dependencies:
   lints: ^3.0.0
