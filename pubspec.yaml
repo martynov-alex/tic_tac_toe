@@ -1,6 +1,6 @@
 name: tic_tac_toe
 description: Educational project from the book "Dart Basics".
-version: 1.0.0
+version: 0.0.0
 
 environment:
   sdk: ^3.4.3
